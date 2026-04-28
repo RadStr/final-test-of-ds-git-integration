@@ -1,5 +1,5 @@
 type: https://dataspecer.com/core/model-descriptor/pim-store-wrapper
-id: http://dataspecer.com/packages/local-root/9d01b600-fe35-4ad0-af7d-c29234612da8/e4bebd83-7804-4703-afe1-ca17ae837392
+id: 9ca95169-0186-4d26-9a5e-626b3334949c
 alias: prof
 pimStore:
   resources:

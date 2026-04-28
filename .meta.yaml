@@ -1,4 +1,4 @@
-iri: http://dataspecer.com/packages/local-root/9d01b600-fe35-4ad0-af7d-c29234612da8
+iri: 282a343d-d3b7-45d8-9e6d-f694fdb59c16
 projectIri: c2821f40-1b45-46e8-947f-38f14a4b499b
 types:
   - http://dataspecer.com/resources/local/package
@@ -11,5 +11,5 @@ userMetadata:
   documentBaseUrl: https://mff-uk.github.io/data-specification-vocabulary/dsv/
 metadata: {}
 _version: 1
-_exportVersion: 1
+_exportVersion: 2
 _exportedBy: http://localhost:3100

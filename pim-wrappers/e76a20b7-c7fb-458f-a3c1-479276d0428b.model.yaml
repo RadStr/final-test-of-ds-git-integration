@@ -1,5 +1,5 @@
 type: https://dataspecer.com/core/model-descriptor/pim-store-wrapper
-id: http://dataspecer.com/packages/local-root/9d01b600-fe35-4ad0-af7d-c29234612da8/96af4916-ab2a-4397-a5dc-d8d655f23738
+id: 6e86034c-b2e5-4227-a756-480757e4549d
 alias: owl
 pimStore:
   resources:
@@ -18,7 +18,7 @@ pimStore:
       types:
         - https://ofn.gov.cz/slovník/pim/Association
       iri: http://www.w3.org/2002/07/owl#allValuesFrom
-      pimInterpretation: http://www.w3.org/2002/07/owl#allValuesFrom
+      pimInterpretation: http://www.w333.org/2002/07/owl#allValuesFrom
       pimTechnicalLabel: null
       pimHumanLabel:
         en: allValuesFrom

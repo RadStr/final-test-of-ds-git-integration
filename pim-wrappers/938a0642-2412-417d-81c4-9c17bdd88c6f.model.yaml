@@ -1,5 +1,5 @@
 type: https://dataspecer.com/core/model-descriptor/pim-store-wrapper
-id: http://dataspecer.com/packages/local-root/9d01b600-fe35-4ad0-af7d-c29234612da8/90259cac-2bbe-4905-a4bc-bd9494e3273c
+id: f90eb7b5-130e-4dda-b0c9-b78073d09ec3
 alias: skos
 pimStore:
   resources:

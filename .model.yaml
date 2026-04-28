@@ -2,7 +2,7 @@ configuration:
   http://dataspecer.com/resources/local/git-remote-configuration:
     publicationBranch: publication-branch
     exportFormat: yaml
-    exportVersion: 1
+    exportVersion: 2
   http://dataspecer.com/resources/local/layout-configuration:
     main:
       none:

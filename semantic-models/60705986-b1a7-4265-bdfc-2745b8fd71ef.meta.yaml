@@ -1,9 +1,9 @@
-iri: 3c3f5c81-e751-447c-9476-caaae70c46ed
+iri: 155747a2-c146-476a-98f8-a97a7605b469
 projectIri: 60705986-b1a7-4265-bdfc-2745b8fd71ef
 types:
   - http://dataspecer.com/resources/local/semantic-model
 userMetadata: {}
 metadata: {}
 _version: 1
-_exportVersion: 1
+_exportVersion: 2
 _exportedBy: http://localhost:3100

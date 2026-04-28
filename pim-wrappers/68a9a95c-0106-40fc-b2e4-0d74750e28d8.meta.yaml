@@ -1,4 +1,4 @@
-iri: http://dataspecer.com/packages/local-root/9d01b600-fe35-4ad0-af7d-c29234612da8/e4bebd83-7804-4703-afe1-ca17ae837392
+iri: 9ca95169-0186-4d26-9a5e-626b3334949c
 projectIri: 68a9a95c-0106-40fc-b2e4-0d74750e28d8
 types:
   - https://dataspecer.com/core/model-descriptor/pim-store-wrapper
@@ -8,5 +8,5 @@ userMetadata:
     en: prof
 metadata: {}
 _version: 1
-_exportVersion: 1
+_exportVersion: 2
 _exportedBy: http://localhost:3100

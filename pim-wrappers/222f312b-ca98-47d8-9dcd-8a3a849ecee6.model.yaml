@@ -1,5 +1,5 @@
 type: https://dataspecer.com/core/model-descriptor/pim-store-wrapper
-id: http://dataspecer.com/packages/local-root/9d01b600-fe35-4ad0-af7d-c29234612da8/89ced8be-2bbf-40d3-9de8-e3ddd9944564
+id: cfa620f9-e195-41cb-9202-73ce95bbb145
 alias: dublin_core_terms
 pimStore:
   resources:

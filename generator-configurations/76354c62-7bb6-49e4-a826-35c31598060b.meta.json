@@ -1,5 +1,5 @@
 {
-  "iri": "http://dataspecer.com/packages/local-root/9d01b600-fe35-4ad0-af7d-c29234612da8/generator-configuration",
+  "iri": "25ba133b-ac39-4d06-88e3-005cccd8aa3a",
   "projectIri": "76354c62-7bb6-49e4-a826-35c31598060b",
   "types": [
     "http://dataspecer.com/resources/v1/generator-configuration"

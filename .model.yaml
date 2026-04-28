@@ -7,7 +7,7 @@ configuration:
     main:
       none:
         layout_alg: none
-        run_layered_after: false
+        run_layered_after: true
         run_node_overlap_removal_after: false
         interactive: false
       elk_stress:

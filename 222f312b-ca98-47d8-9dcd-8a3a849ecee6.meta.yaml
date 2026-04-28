@@ -1,0 +1,12 @@
+iri: e292389f-1ef0-4f68-8ebe-b1a060c7ccf1
+projectIri: 222f312b-ca98-47d8-9dcd-8a3a849ecee6
+types:
+  - https://dataspecer.com/core/model-descriptor/pim-store-wrapper
+userMetadata:
+  documentBaseUrl: https://datagov-cz.github.io/cache-slovniku/dublin_core_terms.ttl
+  label:
+    en: dublin_core_terms
+metadata: {}
+_version: 1
+_exportVersion: 1
+_exportedBy: http://localhost:3100

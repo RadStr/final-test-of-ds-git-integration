@@ -1,0 +1,12 @@
+iri: df70bbf9-4f41-4ce3-8fde-b6c8abecd2ac
+projectIri: 68a9a95c-0106-40fc-b2e4-0d74750e28d8
+types:
+  - https://dataspecer.com/core/model-descriptor/pim-store-wrapper
+userMetadata:
+  documentBaseUrl: https://www.w3.org/TR/dx-prof/rdf/prof.ttl
+  label:
+    en: prof
+metadata: {}
+_version: 1
+_exportVersion: 1
+_exportedBy: http://localhost:3100

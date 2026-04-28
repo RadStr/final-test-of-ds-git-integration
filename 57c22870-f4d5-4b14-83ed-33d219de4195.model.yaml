@@ -1,0 +1,421 @@
+identifier: 478fc76a-ba02-49ba-8374-0fd1ce1e22f9
+version: 1
+type: http://dataspecer.com/resources/local/visual-model
+entities:
+  - identifier: 478fc76a-ba02-49ba-8374-0fd1ce1e22f9-model-metadata-entity
+    type:
+      - entity-model-type
+    label:
+      en: Anonymous model
+  - model: b1511f2e-367c-4946-9099-07db88fac0f0
+    representedEntity: http://www.w3.org/2002/07/owl#AllDifferent
+    position:
+      x: 1880
+      y: 0
+      anchored: null
+    content: []
+    visualModels: []
+    type:
+      - visual-node
+    identifier: q43bm
+  - model: b1511f2e-367c-4946-9099-07db88fac0f0
+    representedEntity: http://www.w3.org/2002/07/owl#AllDisjointClasses
+    position:
+      x: 0
+      y: 1250
+      anchored: null
+    content: []
+    visualModels: []
+    type:
+      - visual-node
+    identifier: rgyar
+  - model: b1511f2e-367c-4946-9099-07db88fac0f0
+    representedEntity: http://www.w3.org/2002/07/owl#AllDisjointProperties
+    position:
+      x: 300
+      y: 1250
+      anchored: null
+    content: []
+    visualModels: []
+    type:
+      - visual-node
+    identifier: s1cwzf
+  - model: b1511f2e-367c-4946-9099-07db88fac0f0
+    representedEntity: http://www.w3.org/2002/07/owl#Annotation
+    position:
+      x: 600
+      y: 1250
+      anchored: null
+    content: []
+    visualModels: []
+    type:
+      - visual-node
+    identifier: hgy74
+  - model: b1511f2e-367c-4946-9099-07db88fac0f0
+    representedEntity: http://www.w3.org/2002/07/owl#AnnotationProperty
+    position:
+      x: 910
+      y: 1250
+      anchored: null
+    content: []
+    visualModels: []
+    type:
+      - visual-node
+    identifier: htcwk
+  - model: b1511f2e-367c-4946-9099-07db88fac0f0
+    representedEntity: http://www.w3.org/2002/07/owl#AsymmetricProperty
+    position:
+      x: 960
+      y: 170
+      anchored: null
+    content: []
+    visualModels: []
+    type:
+      - visual-node
+    identifier: zhaoa
+  - model: b1511f2e-367c-4946-9099-07db88fac0f0
+    representedEntity: http://www.w3.org/2002/07/owl#Axiom
+    position:
+      x: 1210
+      y: 1250
+      anchored: null
+    content: []
+    visualModels: []
+    type:
+      - visual-node
+    identifier: dsl63
+  - model: b1511f2e-367c-4946-9099-07db88fac0f0
+    representedEntity: http://www.w3.org/2002/07/owl#Class
+    position:
+      x: 1580
+      y: 0
+      anchored: null
+    content: []
+    visualModels: []
+    type:
+      - visual-node
+    identifier: 07glw
+  - model: b1511f2e-367c-4946-9099-07db88fac0f0
+    representedRelationship: http://www.w3.org/2002/07/owl#disjointWith
+    waypoints: []
+    visualSource: 07glw
+    visualTarget: 07glw
+    type:
+      - visual-relationship
+    identifier: 78hv6
+  - model: b1511f2e-367c-4946-9099-07db88fac0f0
+    representedRelationship: http://www.w3.org/2002/07/owl#complementOf
+    waypoints: []
+    visualSource: 07glw
+    visualTarget: 07glw
+    type:
+      - visual-relationship
+    identifier: 78n0n
+  - model: b1511f2e-367c-4946-9099-07db88fac0f0
+    representedEntity: http://www.w3.org/2002/07/owl#DataRange
+    position:
+      x: 1520
+      y: 1250
+      anchored: null
+    content: []
+    visualModels: []
+    type:
+      - visual-node
+    identifier: evcn7
+  - model: b1511f2e-367c-4946-9099-07db88fac0f0
+    representedEntity: http://www.w3.org/2002/07/owl#DatatypeProperty
+    position:
+      x: 1820
+      y: 1250
+      anchored: null
+    content: []
+    visualModels: []
+    type:
+      - visual-node
+    identifier: vphl8
+  - model: b1511f2e-367c-4946-9099-07db88fac0f0
+    representedEntity: http://www.w3.org/2002/07/owl#DeprecatedClass
+    position:
+      x: 0
+      y: 1390
+      anchored: null
+    content: []
+    visualModels: []
+    type:
+      - visual-node
+    identifier: r4ffe
+  - model: b1511f2e-367c-4946-9099-07db88fac0f0
+    representedEntity: http://www.w3.org/2002/07/owl#DeprecatedProperty
+    position:
+      x: 300
+      y: 1390
+      anchored: null
+    content: []
+    visualModels: []
+    type:
+      - visual-node
+    identifier: olmtv
+  - model: b1511f2e-367c-4946-9099-07db88fac0f0
+    representedEntity: http://www.w3.org/2002/07/owl#FunctionalProperty
+    position:
+      x: 600
+      y: 1390
+      anchored: null
+    content: []
+    visualModels: []
+    type:
+      - visual-node
+    identifier: asemt
+  - model: b1511f2e-367c-4946-9099-07db88fac0f0
+    representedEntity: http://www.w3.org/2002/07/owl#InverseFunctionalProperty
+    position:
+      x: 1090
+      y: 720
+      anchored: null
+    content: []
+    visualModels: []
+    type:
+      - visual-node
+    identifier: dkk5n
+  - model: b1511f2e-367c-4946-9099-07db88fac0f0
+    representedEntity: http://www.w3.org/2002/07/owl#IrreflexiveProperty
+    position:
+      x: 420
+      y: 0
+      anchored: null
+    content: []
+    visualModels: []
+    type:
+      - visual-node
+    identifier: tnnvh
+  - model: b1511f2e-367c-4946-9099-07db88fac0f0
+    representedEntity: http://www.w3.org/2002/07/owl#NamedIndividual
+    position:
+      x: 910
+      y: 1390
+      anchored: null
+    content: []
+    visualModels: []
+    type:
+      - visual-node
+    identifier: 2eq5b
+  - model: b1511f2e-367c-4946-9099-07db88fac0f0
+    representedEntity: http://www.w3.org/2002/07/owl#NegativePropertyAssertion
+    position:
+      x: 0
+      y: 1530
+      anchored: null
+    content:
+      - http://www.w3.org/2002/07/owl#targetValue
+    visualModels: []
+    type:
+      - visual-node
+    identifier: twob4
+  - model: b1511f2e-367c-4946-9099-07db88fac0f0
+    representedEntity: http://www.w3.org/2002/07/owl#ObjectProperty
+    position:
+      x: 540
+      y: 560
+      anchored: null
+    content: []
+    visualModels: []
+    type:
+      - visual-node
+    identifier: 7fpu8
+  - model: b1511f2e-367c-4946-9099-07db88fac0f0
+    representedRelationship: https://dataspecer.com/semantic-models/generalizationfromIri=http%3A%2F%2Fwww.w3.org%2F2002%2F07%2Fowl%23IrreflexiveProperty&toIri=http%3A%2F%2Fwww.w3.org%2F2002%2F07%2Fowl%23ObjectProperty
+    waypoints: []
+    visualSource: tnnvh
+    visualTarget: 7fpu8
+    type:
+      - visual-relationship
+    identifier: uaxfd
+  - model: b1511f2e-367c-4946-9099-07db88fac0f0
+    representedRelationship: https://dataspecer.com/semantic-models/generalizationfromIri=http%3A%2F%2Fwww.w3.org%2F2002%2F07%2Fowl%23InverseFunctionalProperty&toIri=http%3A%2F%2Fwww.w3.org%2F2002%2F07%2Fowl%23ObjectProperty
+    waypoints: []
+    visualSource: dkk5n
+    visualTarget: 7fpu8
+    type:
+      - visual-relationship
+    identifier: uwrwx
+  - model: b1511f2e-367c-4946-9099-07db88fac0f0
+    representedRelationship: https://dataspecer.com/semantic-models/generalizationfromIri=http%3A%2F%2Fwww.w3.org%2F2002%2F07%2Fowl%23AsymmetricProperty&toIri=http%3A%2F%2Fwww.w3.org%2F2002%2F07%2Fowl%23ObjectProperty
+    waypoints: []
+    visualSource: zhaoa
+    visualTarget: 7fpu8
+    type:
+      - visual-relationship
+    identifier: 2a6kci
+  - model: b1511f2e-367c-4946-9099-07db88fac0f0
+    representedRelationship: http://www.w3.org/2002/07/owl#inverseOf
+    waypoints: []
+    visualSource: 7fpu8
+    visualTarget: 7fpu8
+    type:
+      - visual-relationship
+    identifier: ezr5h
+  - model: b1511f2e-367c-4946-9099-07db88fac0f0
+    representedEntity: http://www.w3.org/2002/07/owl#Ontology
+    position:
+      x: 1210
+      y: 1390
+      anchored: null
+    content: []
+    visualModels: []
+    type:
+      - visual-node
+    identifier: 83o96
+  - model: b1511f2e-367c-4946-9099-07db88fac0f0
+    representedEntity: http://www.w3.org/2002/07/owl#OntologyProperty
+    position:
+      x: 1520
+      y: 1390
+      anchored: null
+    content: []
+    visualModels: []
+    type:
+      - visual-node
+    identifier: f3qh1
+  - model: b1511f2e-367c-4946-9099-07db88fac0f0
+    representedEntity: http://www.w3.org/2002/07/owl#ReflexiveProperty
+    position:
+      x: 680
+      y: 1110
+      anchored: null
+    content: []
+    visualModels: []
+    type:
+      - visual-node
+    identifier: hq0rm
+  - model: b1511f2e-367c-4946-9099-07db88fac0f0
+    representedRelationship: https://dataspecer.com/semantic-models/generalizationfromIri=http%3A%2F%2Fwww.w3.org%2F2002%2F07%2Fowl%23ReflexiveProperty&toIri=http%3A%2F%2Fwww.w3.org%2F2002%2F07%2Fowl%23ObjectProperty
+    waypoints: []
+    visualSource: hq0rm
+    visualTarget: 7fpu8
+    type:
+      - visual-relationship
+    identifier: xur3m
+  - model: b1511f2e-367c-4946-9099-07db88fac0f0
+    representedEntity: http://www.w3.org/2002/07/owl#Restriction
+    position:
+      x: 1390
+      y: 400
+      anchored: null
+    content:
+      - http://www.w3.org/2002/07/owl#qualifiedCardinality
+      - http://www.w3.org/2002/07/owl#minQualifiedCardinality
+      - http://www.w3.org/2002/07/owl#minCardinality
+      - http://www.w3.org/2002/07/owl#maxQualifiedCardinality
+      - http://www.w3.org/2002/07/owl#maxCardinality
+      - http://www.w3.org/2002/07/owl#cardinality
+    visualModels: []
+    type:
+      - visual-node
+    identifier: 21l9jg
+  - model: b1511f2e-367c-4946-9099-07db88fac0f0
+    representedRelationship: https://dataspecer.com/semantic-models/generalizationfromIri=http%3A%2F%2Fwww.w3.org%2F2002%2F07%2Fowl%23Restriction&toIri=http%3A%2F%2Fwww.w3.org%2F2002%2F07%2Fowl%23Class
+    waypoints: []
+    visualSource: 21l9jg
+    visualTarget: 07glw
+    type:
+      - visual-relationship
+    identifier: 98z4a
+  - model: b1511f2e-367c-4946-9099-07db88fac0f0
+    representedRelationship: http://www.w3.org/2002/07/owl#onClass
+    waypoints: []
+    visualSource: 21l9jg
+    visualTarget: 07glw
+    type:
+      - visual-relationship
+    identifier: k3deg
+  - model: b1511f2e-367c-4946-9099-07db88fac0f0
+    representedEntity: http://www.w3.org/2002/07/owl#SymmetricProperty
+    position:
+      x: 120
+      y: 950
+      anchored: null
+    content: []
+    visualModels: []
+    type:
+      - visual-node
+    identifier: q7xxf
+  - model: b1511f2e-367c-4946-9099-07db88fac0f0
+    representedRelationship: https://dataspecer.com/semantic-models/generalizationfromIri=http%3A%2F%2Fwww.w3.org%2F2002%2F07%2Fowl%23SymmetricProperty&toIri=http%3A%2F%2Fwww.w3.org%2F2002%2F07%2Fowl%23ObjectProperty
+    waypoints: []
+    visualSource: q7xxf
+    visualTarget: 7fpu8
+    type:
+      - visual-relationship
+    identifier: jpaqq
+  - model: b1511f2e-367c-4946-9099-07db88fac0f0
+    representedEntity: http://www.w3.org/2002/07/owl#TransitiveProperty
+    position:
+      x: 0
+      y: 370
+      anchored: null
+    content: []
+    visualModels: []
+    type:
+      - visual-node
+    identifier: iehoak
+  - model: b1511f2e-367c-4946-9099-07db88fac0f0
+    representedRelationship: https://dataspecer.com/semantic-models/generalizationfromIri=http%3A%2F%2Fwww.w3.org%2F2002%2F07%2Fowl%23TransitiveProperty&toIri=http%3A%2F%2Fwww.w3.org%2F2002%2F07%2Fowl%23ObjectProperty
+    waypoints: []
+    visualSource: iehoak
+    visualTarget: 7fpu8
+    type:
+      - visual-relationship
+    identifier: ez2ze
+  - model: b1511f2e-367c-4946-9099-07db88fac0f0
+    representedEntity: http://www.w3.org/2002/07/owl#Nothing
+    position:
+      x: 1820
+      y: 1390
+      anchored: null
+    content: []
+    visualModels: []
+    type:
+      - visual-node
+    identifier: n3xsj
+  - model: df70bbf9-4f41-4ce3-8fde-b6c8abecd2ac
+    representedEntity: http://www.w3.org/ns/dx/prof/ResourceDescriptor
+    position:
+      x: 490
+      y: 830
+      anchored: null
+    content: []
+    visualModels: []
+    type:
+      - visual-node
+    identifier: 34e1y
+  - model: df70bbf9-4f41-4ce3-8fde-b6c8abecd2ac
+    representedEntity: http://www.w3.org/ns/dx/prof/ResourceRole
+    position:
+      x: 1210
+      y: 1800
+      anchored: null
+    content: []
+    visualModels: []
+    type:
+      - visual-node
+    identifier: qsglw
+  - model: df70bbf9-4f41-4ce3-8fde-b6c8abecd2ac
+    representedEntity: http://www.w3.org/ns/dx/prof/Profile
+    position:
+      x: 150
+      y: 590
+      anchored: null
+    content:
+      - http://www.w3.org/ns/dx/prof/hasToken
+    visualModels: []
+    type:
+      - visual-node
+    identifier: e7s1p
+  - model: df70bbf9-4f41-4ce3-8fde-b6c8abecd2ac
+    representedRelationship: http://www.w3.org/ns/dx/prof/isInheritedFrom
+    waypoints: []
+    visualSource: 34e1y
+    visualTarget: e7s1p
+    type:
+      - visual-relationship
+    identifier: th5kb
